@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 💬 Ask me about WebDev.
 -->
-- 🔭 I’m currently working on some Django Projects.
+- 🔭 I’m currently working on some Django Projects and Web Development.
 - 🌱 I’m currently learning Django Framework(Server Side Scripting) and Front end framework(React).
 - 👯 I’m looking to collaborate on Web Development,App development, Devops, Kubernetes.
 - 🤔 I’m looking for help with WebDev,Kubernetes,Devops.
