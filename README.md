@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Development,App development, Devops, Kubernetes.
 - 🤔 I’m looking for help with Kubernetes,Devops.
 
-[![Apoorv 's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorv-x12)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
