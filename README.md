@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 💬 Ask me about WebDev.
+- 💬 Ask me about WebDev. 
+
 -->
 - 🔭 I’m currently working on some Django Projects and Web Development.
 - 🌱 I’m currently learning Django Framework(Server Side Scripting) and Front end framework(React).
