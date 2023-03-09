@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about WebDev. 
 
 -->
+- ⚡ Software Engineer.
 - 🔭 I’m currently working on full stack Web Development.
-- 🌱 I’m currently learning Django Framework(Server Side Scripting) and Front end framework(React).
-- 👯 I’m looking to collaborate on Web Development,App development, Devops, Kubernetes.
+- 👯 I’m looking to collaborate on Web Development , App development , Blockchain , Devops.
 - 🤔 I’m looking for help with Kubernetes,Devops.
 
 
