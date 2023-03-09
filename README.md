@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Software Engineer.
 - 🔭 I’m currently working on full stack Web Development.
 - 👯 I’m looking to collaborate on Web Development , App development , Blockchain , Devops.
-- 🤔 I’m looking for help with Kubernetes , Devops.
-
+- 📫 How to reach me: https://www.linkedin.com/in/apoorv-shrivastava-25599596/
 
 [![Apoorv 's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorv-x12&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
