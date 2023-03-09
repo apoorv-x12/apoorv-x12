@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=apoorv-x12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## ⚡ Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=apoorv-x12&theme=dark)](https://git.io/streak-stats)
