@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=apoorv-x12&theme=dark)](https://git.io/streak-stats)
 
 ## 🏆 Skills
-[![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,mysql,mongodb,cpp,html,aws,react,flutter,rails,regex,bootstrap,c,codepen,css,django,elixir,threejs,unity,fastapi,git,github,horeku,postman,ps,vscode,eclipse,atom,bash,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,mysql,mongodb,cpp,html,aws,react,flutter,rails,regex,bootstrap,c,codepen,css,django,elixir,threejs,unity,fastapi,git,github,postman,ps,vscode,eclipse,atom,bash,blender)](https://skillicons.dev)
