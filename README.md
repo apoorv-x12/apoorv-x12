@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 
 [![Apoorv 's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorv-x12&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-x12&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=apoorv-x12)](https://github.com/ryo-ma/github-profile-trophy)
