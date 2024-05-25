@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 -->
 - ⚡ Software Engineer.
-- 🔭 I’m currently working on full stack Web Development.
-- 👯 I’m looking to collaborate on Web Development , App development , Blockchain , Devops.
+- 🔭 I’m currently working on full Stack Development along with LLM.
+- 👯 I’m looking to collaborate on Web Development , App development , GenAI , Devops.
 - 📫 Email: ap.xtreme21@gmail.com
 
 
