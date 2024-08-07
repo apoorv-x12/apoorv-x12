@@ -26,7 +26,7 @@
 
 Here are some of my notable projects:
 
-* **npm-stats-viz:** [It showcases top npm packages, displaying download history with graphs. Users can compare the downloads packages via bar graphs.]([apoorv-x12.github.io/npm-stats-viz/](https://apoorv-x12.github.io/npm-stats-viz/))
+* **npm-stats-viz:** [It showcases top npm packages, displaying download history with graphs. Users can compare the downloads packages via bar graphs.](https://apoorv-x12.github.io/npm-stats-viz/))
 
 ---
 
