@@ -18,7 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-x12&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=py,js,nodejs,mysql,mongodb,cpp,html,aws,react,regex,bootstrap,eclipse,atom,c,codepen,elixir,threejs,unity,fastapi,git,github,postman,ps,vscode,css,django,gitbash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,py,js,nodejs,express,aws,tailwind,vue,materialui,spring,cpp,html,mysql,django,c,css,mongodb,threejs,fastapi,elixir,git,vscode,unity,codepen,postman,ps,atom,linux,regex)](https://skillicons.dev)
 
 ---
 
