@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on Full Stack development and LLMs.
 - 👯 Open to collaborating on Web Development, App Development, GenAI, and DevOps, Blockchain projects.
-- 📫 Reach me at: [ap.xtreme21@gmail.com](mailto:ap.xtreme21@gmail.com)
+- 📫 Reach me at: [ap.xtreme21@gmail.com](mailto:apoorv.elililly@gmail.com)
 
 ---
 
