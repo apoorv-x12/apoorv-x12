@@ -1,37 +1,54 @@
-### Hi there, I'm Apoorv Shrivastava! 👋
+### Hi, I'm Apoorv Shrivastava 👋
 
-⚡ Software Engineer passionate about Full Stack Development and Large Language Models (LLMs).
-
-- 🔭 Currently working on Full Stack development and LLMs.
-- 👯 Open to collaborating on Web Development, App Development, GenAI, and DevOps, Blockchain projects.
-- 📫 Reach me at: [apoorvelililly@gmail.com](mailto:apoorvelililly@gmail.com)
+Software Engineer focused on building **backend and full-stack systems**, with growing experience in **LLM-powered applications** and cloud-native architectures.
 
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=apoorv-x12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## ⚡ Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=apoorv-x12&theme=dark)](https://git.io/streak-stats)
-
-## 📊 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorv-x12&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=react,go,ts,py,js,nodejs,express,aws,tailwind,vue,materialui,spring,cpp,html,mysql,django,c,css,mongodb,threejs,fastapi,elixir,git,vscode,unity,codepen,postman,ps,linux,regex)](https://skillicons.dev)
+### 🔧 What I work on
+- Backend & Full Stack development (Python, Django, FastAPI, React, Vue)
+- Designing REST / GraphQL APIs and data models and PostgreSQL
+- Cloud-native systems on AWS (Lambda, ECS) with Docker
+- Exploring LLM-based systems and agentic workflows
 
 ---
 
-## 🚀 Projects
+### 🧰 Core Tech Stack
+**Backend**
+- Python, Django, FastAPI
+- PostgreSQL, SQL
+- REST APIs, GraphQL
 
-Here are some of my notable projects:
+**Frontend**
+- React, Vue.js, TypeScript, JavaScript
+- TailwindCSS
 
-* **npm-stats-viz:** [It showcases top npm packages, displaying download history with graphs. Users can compare the downloads packages via bar graphs.](https://apoorv-x12.github.io/npm-stats-viz/)
+**Infra / Cloud**
+- AWS (Lambda, ECS)
+- Docker
+- Linux, Git
 
 ---
 
-## 💬 Get in Touch
+### 🚀 Selected Projects
 
-Feel free to reach out if you want to collaborate or just have a chat about web development, app development, generative AI, or DevOps!
+**npm-stats-viz**  
+Visualizes npm package download trends over time using interactive graphs.  
+Allows comparison of package popularity using bar charts.  
+🔗 https://apoorv-x12.github.io/npm-stats-viz/
 
-📫 Email: [ap.xtreme21@gmail.com](mailto:ap.xtreme21@gmail.com)
+**Multi-Tenant Project Manager**  
+A simplified multi-tenant project management system with a Django backend, PostgreSQL, and a typed React frontend.  
+(Focus on multi-tenancy, role-based access, and clean API design)
+
+---
+
+### 🤝 Open to
+- Backend / Full Stack roles
+- Early-stage startup environments
+- Teams building developer tools, SaaS platforms, or AI-powered products
+
+---
+
+### 📫 Contact
+- Email: [apoorvs756@gmail.com](mailto:apoorvs756@gmail.com)
+- GitHub: https://github.com/apoorv-x12
