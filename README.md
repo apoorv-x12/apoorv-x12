@@ -6,7 +6,7 @@ Software Engineer focused on building **backend and full-stack systems**, with g
 
 ### 🔧 What I work on
 - Backend & Full Stack development (Python, Django, FastAPI, React, Vue)
-- Designing REST / GraphQL APIs and data models and PostgreSQL
+- Designing REST / GraphQL APIs and data modelling with PostgreSQL
 - Cloud-native systems on AWS (Lambda, ECS) with Docker
 - Exploring LLM-based systems and agentic workflows
 
@@ -14,16 +14,18 @@ Software Engineer focused on building **backend and full-stack systems**, with g
 
 ### 🧰 Core Tech Stack
 **Backend**
-- Python, Django, FastAPI
+- Python, Django, FastAPI, Node.js
 - PostgreSQL, SQL
 - REST APIs, GraphQL
 
 **Frontend**
 - React, Vue.js, TypeScript, JavaScript
 - TailwindCSS
+- Global State management
+- Component libraries
 
 **Infra / Cloud**
-- AWS (Lambda, ECS)
+- AWS (Lambda, ECS, Cloudformation)
 - Docker
 - Linux, Git
 
