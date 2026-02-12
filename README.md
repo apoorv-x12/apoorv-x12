@@ -33,14 +33,15 @@ Software Engineer focused on building **backend and full-stack systems**, with g
 
 ### 🚀 Selected Projects
 
+**Multi-Tenant Project Manager**  
+A simplified multi-tenant project management system with a Django backend, PostgreSQL, and a typed React frontend.  
+(Focus on multi-tenancy, role-based access, and clean API design)
+🔗 https://apoorv-x12.github.io/npm-stats-viz/
+
 **npm-stats-viz**  
 Visualizes npm package download trends over time using interactive graphs.  
 Allows comparison of package popularity using bar charts.  
 🔗 https://apoorv-x12.github.io/npm-stats-viz/
-
-**Multi-Tenant Project Manager**  
-A simplified multi-tenant project management system with a Django backend, PostgreSQL, and a typed React frontend.  
-(Focus on multi-tenancy, role-based access, and clean API design)
 
 ---
 
