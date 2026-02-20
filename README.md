@@ -31,6 +31,9 @@ Software Engineer focused on building **backend and full-stack systems**, with g
 
 ### 🚀 Selected Projects
 
+**Deterministic Workflow Orchestration engine**  
+Deterministic workflow orchestration engine that executes async steps and maintains state of the workflows. Using FastAPI, SQLAlchemy and SQL DB for persistence. System design includes failure handling, transitions, concurrency handling, transactions, retries, observability.
+
 **Multi-Tenant Project Manager**  
 A simplified multi-tenant project management system with a Django backend, PostgreSQL, and a typed React frontend.  
 (Focus on multi-tenancy, role-based access, and clean API design)                                                                                                             
