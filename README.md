@@ -21,7 +21,7 @@ Software Engineer focused on building **backend and full-stack systems**, with g
 **Frontend**
 - React, Vue.js, TypeScript, JavaScript
 - TailwindCSS
-- State management(client- and server-side states)
+- State management (client- and server-side states)
 
 **Infra / Cloud**
 - AWS (Lambda, ECS, Cloudformation, S3)
