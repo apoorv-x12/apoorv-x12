@@ -33,13 +33,7 @@ Software Engineer focused on building **backend and full-stack systems**, with g
  
 **Distributed Workflow Orchestration Engine**
 
-Designed a deterministic workflow execution engine with durable state transitions using PostgreSQL as the source of truth.
-
-Implemented idempotent step execution, retries, and failure recovery for multi-step workflows.
-
-Built stateless worker architecture enabling horizontal scaling and crash recovery.
-
-Modeled workflow lifecycle and step state machine to guarantee safe re-execution after partial failures.  
+Designed a deterministic workflow engine with durable state transitions and idempotent step execution. Implemented retries, and failure recovery for multi-step workflows, with stateless workers enabling horizontal scaling and safe recovery after crashes. 
                                                                   
 🔗 [https://github.com/apoorv-x12/workflow-engine](https://github.com/apoorv-x12/workflow-engine)
 
