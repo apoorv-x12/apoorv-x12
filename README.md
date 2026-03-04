@@ -30,9 +30,17 @@ Software Engineer focused on building **backend and full-stack systems**, with g
 ---
 
 ### 🚀 Selected Projects
+ 
+**Distributed Workflow Orchestration Engine**
 
-**Deterministic Workflow Orchestration engine**  
-Deterministic workflow orchestration engine that executes async steps and maintains state of the workflows. Using FastAPI, SQLAlchemy and SQL DB for persistence. System design includes failure handling, transitions, concurrency handling, transactions, retries, observability.                                                                    
+Designed a deterministic workflow execution engine with durable state transitions using PostgreSQL as the source of truth.
+
+Implemented idempotent step execution, retries, and failure recovery for multi-step workflows.
+
+Built stateless worker architecture enabling horizontal scaling and crash recovery.
+
+Modeled workflow lifecycle and step state machine to guarantee safe re-execution after partial failures.  
+                                                                  
 🔗 [https://github.com/apoorv-x12/workflow-engine](https://github.com/apoorv-x12/workflow-engine)
 
 **Multi-Tenant Project Manager**  
