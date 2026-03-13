@@ -33,8 +33,7 @@ Software Engineer focused on building **backend and full-stack systems**, with g
  
 **Distributed Workflow Orchestration Engine**
 
-Designed a deterministic workflow engine with durable state transitions and idempotent step execution. Implemented retries, and failure recovery for multi-step workflows, with stateless workers enabling horizontal scaling and safe recovery after crashes. 
-                                                                  
+Designed a deterministic workflow engine with durable state transitions and idempotent step execution. Implemented retries, and failure recovery for multi-step workflows, with stateless workers enabling horizontal scaling and safe recovery after crashes.                                                                  
 🔗 [https://github.com/apoorv-x12/workflow-engine](https://github.com/apoorv-x12/workflow-engine)
 
 **Multi-Tenant Project Manager**  
