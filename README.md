@@ -37,7 +37,7 @@ Designed a deterministic workflow engine with durable state transitions and idem
 🔗 [https://github.com/apoorv-x12/workflow-engine](https://github.com/apoorv-x12/workflow-engine)
 
 **Multi-Tenant Project Manager**  
-A simplified multi-tenant project management system with a Django backend, PostgreSQL, and a typed React frontend.  
+A multi-tenant project management system with a Django backend, PostgreSQL, and a typed React frontend.  
 (Focus on multi-tenancy, role-based access, and clean API design)                                                                                                             
 🔗 [https://apoorv-x12.multi-tenant/](https://github.com/apoorv-x12/muti-tenant-project-manager)
 
