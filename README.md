@@ -49,7 +49,7 @@ Allows comparison of package popularity using bar charts.
 ---
 
 ### 🤝 Open to
-- Backend / Full Stack roles
+- Backend / Full Stack roles (Remote or Contract)
 - Early-stage startup environments
 - Teams building developer tools, SaaS platforms, or AI-powered products
 
